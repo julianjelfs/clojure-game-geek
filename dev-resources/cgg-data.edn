@@ -20,4 +20,10 @@
    :summary "Tens, quick card game of developing civilisations"
    :min_players 2
    :max_players 2
-   :play_time 120 }]}
+   :play_time 120 }
+  {:id "1238"
+   :name "Labrynth"
+   :summary "Find your treasure on a constantly moving maze"
+   :min_players 2
+   :max_players 4
+   :play_time 30 }]}
